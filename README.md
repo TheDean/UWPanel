@@ -31,4 +31,4 @@ Some other digital tools that are extremely useful:
 *   [Tableau](https://public.tableau.com/s/). Free and powerful data graphing tool.
 *   [DigitalOcean](https://www.digitalocean.com/?refcode=7177dc77f321). Cheap and easy web hosting.
 
-Of note - You **WILL** get frustrated, feel like a hack and think there's no way you will ever get this stuff. It happens to everyone when the first start learning to code. Stick with it, ask people online and Google your errors. Eventually you'll master the craft. Good luck.
+Of note - You **WILL** get frustrated, feel like a hack and think there's no way you will ever get this stuff. It happens to everyone when they first start learning to code. Stick with it, ask people online and Google your errors. Eventually you'll master the craft. Good luck.
