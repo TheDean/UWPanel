@@ -8,7 +8,7 @@ The question most journalists who want to learn to code ask - what language(s) s
 *   CSS - the design elements of the web
 *   JavaScript & jQuery - making your web projects interactive
 
-A great place to start is [codecademy](https://www.codecademy.com/). They are a free way to learn these basics.
+A great place to start is [codecademy](https://www.codecademy.com/). They are a free way to dip your toes into code.
 
 ### Beyond the basics
 
